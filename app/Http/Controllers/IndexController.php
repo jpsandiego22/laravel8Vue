@@ -11,7 +11,7 @@ class IndexController extends Controller
     protected $data;
 
     public function __construct() {
-        $this->data['page'] = "Systems";
+        $this->data['page'] = "Dashboard";
     }
     public function index(Request $request)
     {
