@@ -2,7 +2,10 @@
     <a href="https://laravel.com" target="_blank">
         <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400">
     </a>
-     <a href="https://laravel.com" target="_blank">
+   
+</p>
+<p align="center">
+     <a href="https://vuejs.org/" target="_blank">
         <img src="https://v2.vuejs.org/images/logo.svg" width="100">
     </a>
 </p>
@@ -14,7 +17,7 @@
 ### INSTALLATION
 
 1. Run: Composer Update
-2. Create Database Name: pranxxys
+2. Create Database Name: praxxys
 3. Run: php artisan migrate
 4. Run: php artisan db:seed
 
@@ -39,6 +42,8 @@
 4. Product List
 5. Edit Product
 6. Sample Video.js
+ -  http://127.0.0.1:8000/video-gallery/1
+ -  http://127.0.0.1:8000/video-gallery/2
 
 
 
